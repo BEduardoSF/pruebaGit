@@ -1,3 +1,3 @@
-println "Hola mundo"
+println "Hola, Mundo"
 
 println "Adios Mundo"
